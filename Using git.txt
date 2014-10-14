@@ -1,0 +1,30 @@
+Save all files to the folder "These-are-not-the-files-you-are-looking-for" on the desktop:
+Feel free to make other folders inside this one.
+
+
+	C:\Users\8887\Desktop\These-are-not-the-files-you-are-looking-for\
+
+
+open Git shell and enter:
+
+
+	cd C:\Users\8887\Desktop\These-are-not-the-files-you-are-looking-for\
+
+
+or:
+
+
+	cd ..\..\Desktop\These-are-not-the-files-you-are-looking-for\
+
+
+
+(copy and paste in to the window)
+
+
+type "git commit"
+
+
+any changes are now updated online.
+
+contact James Talbert for more information: jtalbert123@gmail.com
+	I don't know everything, but I'll try to help.
